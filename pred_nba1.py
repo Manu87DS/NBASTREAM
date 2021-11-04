@@ -36,7 +36,7 @@ st.set_page_config(page_title="Projet NBA",
 #########
 #SIDEBAR
 ########
-new_title = '<p style="font-family:sans-serif; color:GREEN ; font-size: 42px;">Etude des données NBA OPEN SOURCE</p>'
+new_title = '<p style="font-family:sans-serif; color:BLACK ; font-size: 38px;">Etude des données NBA open source</p>'
 st.sidebar.title(new_title,"Projet d'étude prédictive de résultats sportifs NBA")
 st.sidebar.write('')
 
