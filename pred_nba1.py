@@ -53,7 +53,8 @@ navigation = st.sidebar.radio('',["Introduction", "Cas avec table de données un
 #CONTACT
 ########
 expander = st.sidebar.expander('SUPPORT')
-expander.write("Lien GitHub : ... ")
+expander.write("GitHub : MANU87DS ")
+expander.write("Linkedin : https://www.linkedin.com/in/emmanuel-bonnet-data-scientist/ ")
 
 if navigation == "Introduction":
     st.title("Présentation du projet")
@@ -76,9 +77,9 @@ if navigation == "Introduction":
     st.markdown('<p class="big-font2">Les techniques analyse exploratoire & modélisation des données historiques sont de plus en plus sollicitées par les entreprises pour: </p>', unsafe_allow_html=True)	
          
     st.markdown('<p class="big-font2"> Capitaliser au mieux le savoir-faire ainsi que les avantages concurrentiels </p>', unsafe_allow_html=True)
-    st.markdown('<p class="big-font">  Etre  précis dans la prédiction &/ou l’anticipation de résultats commerciaux, financiers et autres  </p>', unsafe_allow_html=True)
-    st.markdown('<p class="big-font">  Cibler les meilleurs plans actions possibles en vue de se renforcer et être plus performant que la concurrence </p>', unsafe_allow_html=True)
-    st.markdown('<p class="big-font">  Ce projet s’inscrit dans le domaine du sport et particulièrement les données NBA récentes et moins récentes  </p>', unsafe_allow_html=True)
+    st.markdown('<p class="big-font2">  Etre  précis dans la prédiction &/ou l’anticipation de résultats commerciaux, financiers et autres  </p>', unsafe_allow_html=True)
+    st.markdown('<p class="big-font2">  Cibler les meilleurs plans actions possibles en vue de se renforcer et être plus performant que la concurrence </p>', unsafe_allow_html=True)
+    st.markdown('<p class="big-font2">  Ce projet s’inscrit dans le domaine du sport et particulièrement les données NBA récentes et moins récentes  </p>', unsafe_allow_html=True)
     st.markdown('<p class="big-font2"> l’objectif du projet est d’analyser les données disponibles sur la NBA </p>', unsafe_allow_html=True)
     st.markdown('<p class="big-font2"> en vue de la réalisation de modèles de prédiction de résultats pour la saison en cours 2021/2022 </p>', unsafe_allow_html=True)
                    
