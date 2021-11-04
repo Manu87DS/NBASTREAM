@@ -205,7 +205,7 @@ Pour cette seconde étape d'étude, les travaux suivants ont été réalisés'
     st.image(image, 300);
     
     st.title('')
-    st.subheader("ANALYSE EN COMPOSANTE PRINCIPALE - NBA PLAYERS")
+    st.subheader("ELO SCORE RANKING - NBA TEAMS")
     image = Image.open('nba_advanced_dataviz_12_ELO_TEAM.png')
     st.image(image, 300);
     
