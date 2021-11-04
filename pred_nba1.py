@@ -86,7 +86,7 @@ if navigation == "Introduction":
                      
 if navigation == "Cas avec table de données unique : analyse des données & modèle primaire classification" :
 
-    st.title('Cas simple - EDA')
+    st.title('Cas simple - Monotable')
     st.title('')
     st.title('')
 
@@ -134,6 +134,11 @@ Pour cette première étape de prise de connaissance des données NBA , les trav
     
     
 if navigation == "Cas avec table de données unique : réalisation de dashboard et graphiques de confrontations" :
+    
+    st.title('Cas simple - Monotable (suite) ')
+    st.title('')
+    st.title('')
+    
     st.markdown("""
     <style>
     .big-font3 {
@@ -170,7 +175,7 @@ if navigation == "Cas avec table de données unique : réalisation de dashboard 
 if navigation == "Cas avec multi tables : classification non supervisée & supervisée" :
     
     
-    st.title('Cas simple - EDA')
+    st.title('Cas plus complexe - Multi tables')
     st.title('')
     st.title('')
 
