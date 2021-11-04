@@ -188,10 +188,10 @@ Pour cette seconde étape d'étude, les travaux suivants ont été réalisés'
             
              ''')
              
-    st.title('')
-    st.subheader("EXEMPLE HISTORIQUE TEMPOREL DES RESULTATS - NBA TEAMS")
-    image = Image.open('Historiques_résultats_1946_2021_FRANCHISES_CELEBRES.png')
-    st.image(image, 300);
+    #st.title('')
+    #st.subheader("EXEMPLE HISTORIQUE TEMPOREL DES RESULTATS - NBA TEAMS")
+    #image = Image.open('Historiques_résultats_1946_2021_FRANCHISES_CELEBRES.png')
+    #st.image(image, 300);
       
     st.title('')
     st.subheader("ANALYSE EN COMPOSANTE PRINCIPALE - NBA PLAYERS")
