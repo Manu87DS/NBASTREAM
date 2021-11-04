@@ -117,7 +117,7 @@ Pour cette première étape de prise de connaissance des données NBA , les trav
     
     st.title('')
     st.subheader("Illustration 3 : Classifieur simple _ Courbe ROC")
-    image = Image.open('nba_simple_dataviz_2_corr.png')
+    image = Image.open('nba_simple_dataviz_3_ROC_classifier1.png')
     st.image(image, 300);
     
     st.title('')
