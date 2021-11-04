@@ -36,7 +36,7 @@ st.set_page_config(page_title="Projet NBA",
 #########
 #SIDEBAR
 ########
-new_title = '<p style="font-family:sans-serif; color:GREEN ; font-size: 42px;">etude données NBA</p>'
+new_title = '<p style="font-family:sans-serif; color:GREEN ; font-size: 42px;">Etude des données NBA OPEN SOURCE</p>'
 st.sidebar.title(new_title,"Projet d'étude prédictive de résultats sportifs NBA")
 st.sidebar.write('')
 
@@ -79,7 +79,7 @@ if navigation == "Introduction":
     st.markdown('<p class="big-font">  Etre  précis dans la prédiction &/ou l’anticipation de résultats commerciaux, financiers et autres  </p>', unsafe_allow_html=True)
     st.markdown('<p class="big-font">  Cibler les meilleurs plans actions possibles en vue de se renforcer et être plus performant que la concurrence </p>', unsafe_allow_html=True)
     st.markdown('<p class="big-font">  Ce projet s’inscrit dans le domaine du sport et particulièrement les données NBA récentes et moins récentes  </p>', unsafe_allow_html=True)
-    st.markdown('<p class="big-font2"> l’objectif du projet est d’analyser les données disponibles sur la NBA.</p>', unsafe_allow_html=True)
+    st.markdown('<p class="big-font2"> l’objectif du projet est d’analyser les données disponibles sur la NBA </p>', unsafe_allow_html=True)
     st.markdown('<p class="big-font2"> en vue de la réalisation de modèles de prédiction de résultats pour la saison en cours 2021/2022 </p>', unsafe_allow_html=True)
                    
                      
